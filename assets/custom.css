@@ -1,0 +1,258 @@
+/* ============================================
+   CUSTOM.CSS — Estilo "Misal de Tríptico"
+   Papel periódico + rojo litúrgico
+   ============================================ */
+
+:root {
+  /* Rojo litúrgico (más cercano al bermellón de misal que al rojo puro) */
+  --rojo-liturgico: #9b1c1c;
+  --rojo-oscuro: #6e1212;
+
+  /* Links: azul tinta de sello parroquial, apagado sobre papel */
+  --link: #2a4a7a;
+  --link-visitado: #5a2a6a;   /* púrpura eclesiástico apagado */
+
+  /* Papel periódico envejecido */
+  --papel: #f3ede1;
+  --papel-sombra: #e6ddca;
+  --tinta: #2b2620;
+  --tinta-suave: #4a423a;
+
+  --serif: "EB Garamond", "Crimson Pro", "Libre Baskerville",
+           Georgia, "Times New Roman", serif;
+}
+
+/* ---------- Fondo tipo papel periódico ---------- */
+html, body {
+  background-color: var(--papel);
+  /* Textura sutil: fibra + manchas muy leves */
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(155, 28, 28, 0.025) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(42, 74, 122, 0.03) 0%, transparent 45%),
+    repeating-linear-gradient(
+      0deg,
+      rgba(0,0,0,0.012) 0px,
+      rgba(0,0,0,0.012) 1px,
+      transparent 1px,
+      transparent 3px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(0,0,0,0.008) 0px,
+      rgba(0,0,0,0.008) 1px,
+      transparent 1px,
+      transparent 4px
+    );
+  color: var(--tinta);
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.rss-subscribe {
+  display: none;
+}
+
+h2,h3,h4,h5,h6 {
+  margin-top: 2.7rem;
+}
+
+
+/* ---------- Contenedor principal ---------- */
+main, .wrapper, #main, article, .content {
+  max-width: 46em;
+  margin: 0 auto;
+  padding: 0.5rem 0.8rem;
+}
+
+/* Borde decorativo opcional del "tríptico" */
+article, main {
+  /*border-left: 2px solid var(--rojo-liturgico);*/
+  /*border-right: 2px solid var(--rojo-liturgico);*/
+  background-color: rgba(255, 252, 245, 0.35);
+}
+
+/* ---------- Jerarquía de títulos en rojo litúrgico ---------- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--rojo-liturgico);
+  font-family: var(--serif);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  text-align: center;
+  border-bottom: 3px double var(--rojo-liturgico);
+  padding-bottom: 0.4em;
+  margin-bottom: 1.2em;
+}
+
+h2 {
+  font-size: 1.7rem;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid var(--rojo-liturgico);
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.35rem;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 1.15rem;
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+}
+
+h5, h6 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--rojo-oscuro);
+}
+
+/* ---------- Enlaces ---------- */
+a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--link);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+a:hover,
+a:focus {
+  color: var(--rojo-liturgico);
+  border-bottom: 1px solid var(--rojo-liturgico);
+}
+
+a:visited {
+  color: var(--link-visitado);
+  border-bottom-color: var(--link-visitado);
+}
+
+a:visited:hover {
+  color: var(--rojo-liturgico);
+  border-bottom-color: var(--rojo-liturgico);
+}
+
+/* ---------- Texto corrido ---------- */
+p {
+  text-align: justify;
+  hyphens: auto;
+  margin: 0 0 1em;
+}
+
+/* Capitular al inicio de un párrafo (opcional, muy de misal) */
+article > p:first-of-type::first-letter {
+  float: left;
+  font-size: 3.2em;
+  line-height: 0.9;
+  padding: 0.05em 0.12em 0 0;
+  color: var(--rojo-liturgico);
+  font-weight: 700;
+  font-family: var(--serif);
+}
+
+/* ---------- Citas bíblicas / blockquotes ---------- */
+blockquote {
+  margin: 1.5em 0;
+  padding: 0.5em 1.2em;
+  border-left: 4px solid var(--rojo-liturgico);
+  background-color: rgba(155, 28, 28, 0.04);
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ---------- Separadores decorativos (✠) ---------- */
+hr {
+  border: none;
+  text-align: center;
+  margin: 2.5em auto;
+  color: var(--rojo-liturgico);
+  font-size: 1.1em;
+}
+hr::before {
+  content: "✠";
+  letter-spacing: 0.6em;
+  padding-left: 0.6em;
+}
+
+/* ---------- Código inline y bloques ---------- */
+code, kbd, samp {
+  font-family: "IBM Plex Mono", "Courier New", monospace;
+  font-size: 0.9em;
+  background: var(--papel-sombra);
+  color: var(--rojo-oscuro);
+  padding: 0.1em 0.35em;
+  border-radius: 2px;
+}
+
+pre {
+  background: var(--papel-sombra);
+  border-left: 3px solid var(--rojo-liturgico);
+  padding: 1em 1.2em;
+  overflow-x: auto;
+  line-height: 1.45;
+}
+pre code { background: none; padding: 0; color: var(--tinta); }
+
+/* ---------- Tablas ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+th {
+  background: var(--rojo-liturgico);
+  color: var(--papel);
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  padding: 0.5em 0.7em;
+  text-align: left;
+}
+td {
+  border-bottom: 1px solid var(--papel-sombra);
+  padding: 0.5em 0.7em;
+}
+
+/* ---------- Imágenes ---------- */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+  border: 1px solid var(--papel-sombra);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+/* ---------- Header / footer ---------- */
+header, footer, nav {
+  font-size: 0.92em;
+  color: var(--tinta-suave);
+}
+
+header {
+  border-bottom: 2px solid var(--rojo-liturgico);
+  padding-bottom: 0.5em;
+  margin-bottom: 2em;
+}
+
+footer {
+  border-top: 1px solid var(--rojo-liturgico);
+  margin-top: 3em;
+  padding-top: 0.8em;
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+}
