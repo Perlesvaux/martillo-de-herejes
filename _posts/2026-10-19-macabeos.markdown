@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "Macabeos"
+date:   2026-10-19 20:52:48 -0600
+permalink: macabeos
+tags: zelote jihad guerra santa genocidio martillo
+legend: "LEX MALA, LEX NULLA"
+---
+* Table of Contents
+{:toc}
+
+## Historia
+
+**1 Macabeos**: abarca aproximadamente desde 175 hasta 134 a. C.
+
+**2 Macabeos**: relata acontecimientos desde alrededor de 180 hasta 161 a. C. Comienza antes y termina antes que 1 Macabeos.
+
+Ambos narran la gesta contra el Imperio seléucida en pos de preservar el deposito de la fe.
+
+### 1 Macabeos - Sumario
+
+|capitulo|contenido|
+|---|---|
+|1|Alejandro Magno y sus sucesores. Antíoco IV profana el Templo e impone medidas contra la religión judía.|
+|2|Matatías rechaza la apostasía, inicia la resistencia y transmite su misión a sus hijos.|
+|3–4|Judas Macabeo dirige las victorias militares y recupera Jerusalén. Purifica y dedica nuevamente el Templo en 164 a. C.|
+|5–9|Campañas militares, consolidación de la resistencia y muerte de Judas en combate.|
+|9–12|Jonatán sucede a Judas, combina la lucha militar con la diplomacia y llega a ejercer funciones sacerdotales.|
+|13–16|Simón consolida la autonomía de Judea. El libro concluye con su asesinato y la continuidad del gobierno familiar bajo Juan Hircano.|
+
+
+### 2 Macabeos - Sumario
+
+|capitulo|contenido|
+|---|---|
+|1–2|Cartas dirigidas a los judíos de Egipto que promueven la celebración de la purificación del Templo. Se introducen tradiciones relativas a Jeremías, Nehemías y el santuario.|
+|3|Heliodoro intenta apoderarse del tesoro del Templo, pero una intervención extraordinaria lo impide.|
+|4–5|Intrigas sacerdotales, corrupción, helenización y agravamiento de la crisis bajo Antíoco IV.|
+|6–7|Profanación del culto y martirio de Eleazar y de los siete hermanos junto con su madre. Se proclama la esperanza en la resurrección.|
+|8–10|Judas organiza la resistencia, derrota a sus enemigos y recupera y purifica el Templo.|
+|11–13|Campañas militares y conflictos con las autoridades seléucidas.|
+|14–15|Conflicto con Nicanor, victoria de Judas y afirmación de la confianza en Dios y de la intercesión celestial.|
+
+
+## El Purgatorio y la intercesión
+
+[2 Macabeos][2-macabeos] es el primer antecedente del [Purgatorio][purgatorio], el [sufragio por los difuntos][sufragio] y la [intercesión de los Santos][intercesion]
+
+## Falsa Bandera ~ DARVO
+
+**2 Macabeos** arranca con un ejemplar de *falsa bandera*. La traición nunca viene del enemigo.
+
+- Simón (prefecto del tempo) rivaliza con Onías (sumo sacerdote) por cuestiones relacionadas con la administración del mercado de Jerusalén.
+- Simón conspira con Apolonio (gobernador de Celesiria y de Fenicia) que Heliodoro (ministro de hacienda del rey Antíoco IV) sea enviado a confiscar el tesoro del templo.
+- Dios impide el saqueo. Heliodoro se retira tras ser castigado milagrosamente.
+- Al ver frustrado su complot, [**Simón acusa a Onías de haber sido el quien planeó todo en primer lugar.**][false-flag]
+
+
+## La Verdad es Incompatible con la Supervivencia
+
+Un tema recurrente es la **perfidia**. Los antagonistas aventajan al Pueblo de Dios violando pactos frecuentemente. 
+
+El Pueblo en cambio, debe [mantener sus costumbres en secreto][emboscadura], guardar el Sabado y la [ opcion preferencial por los pobres ][caridad].
+
+Ante esto, no hay mas remedio que [*violar el sabado*][sabado] para evitar la aniquilación total.
+
+
+
+
+## A la Usanza de Pinchas
+
+La [Ira de Dios][ira] se enciende contra su pueblo por apostata.
+
+Matatías Empieza la reparación [a la usanza de Pinchas][pinchas].
+
+Mejor es entrar [manco][manco] al cielo que entrar entero en el infierno.
+
+
+
+## Armas y Letras ~ Trono + Altar = Caudillo
+
+En el capitulo 38 de Don Quijote, Don Quijote sostiene que las armas son superiores a las letras.
+
+Las armas garantizan la supervivencia de la comunidad política; las letras se ocupan de la justicia distributiva dentro de ella.
+
+Las letras (el derecho) no pueden mantenerse sin el respaldo de las armas.
+
+Jonatán y Simón. Cada uno fue simultaneamente gobernador y sumo sacerdote.
+
+
+
+
+[intercesion]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/2-macabeos#c15-v14
+[manco]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/mateo#c18-v8
+
+[ira]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/1-macabeos#c1-v67
+[macabeos-y-madre]: https://materialknight.github.io/doctrina-catolica/biblia-straubinger/2-macabeos#c7
+[false-flag]: https://materialknight.github.io/doctrina-catolica/biblia-straubinger/2-macabeos#c4-v1
+
+[emboscadura]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/1-macabeos#c2-v28
+[sabado]: https://materialknight.github.io/doctrina-catolica/biblia-straubinger/1-macabeos#c2-v34
+[caridad]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/2-macabeos#c8-v30
+
+[pinchas]:https://materialknight.github.io/doctrina-catolica/biblia-straubinger/1-macabeos#nt-c2-v24
+[numeros-c25-v3-17]: https://materialknight.github.io/doctrina-catolica/biblia-straubinger/numeros#c25-v3
+
+[2-macabeos]: https://materialknight.github.io/doctrina-catolica/biblia-straubinger/2-macabeos#sacrificio-expiatorio-por-los-muertos
+[sufragio]: https://materialknight.github.io/doctrina-catolica/catecismo/p1-s2-c3#n958
+[purgatorio]: https://materialknight.github.io/doctrina-catolica/catecismo/p1-s2-c3#n1032

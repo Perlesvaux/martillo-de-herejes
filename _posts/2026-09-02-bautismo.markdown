@@ -4,6 +4,7 @@ title:  "El Bautismo"
 date:   2026-09-02 20:52:48 -0600
 permalink: bautizo
 tags: sacramentos salvacion fe iglesia catolica
+legend: "EXTRA ECCLESIAM NULLA SALUS"
 ---
 
 * Table of Contents

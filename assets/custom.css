@@ -55,9 +55,21 @@ html, body {
   display: none;
 }
 
+.legend {
+  text-align: center;
+  color:var(--rojo-oscuro);
+
+}
+
+.menu-icon {
+  background-color: var(--papel-sombra);
+}
+
+
 h2,h3,h4,h5,h6 {
   margin-top: 2.7rem;
 }
+
 
 
 /* ---------- Contenedor principal ---------- */
@@ -255,4 +267,59 @@ footer {
   text-align: center;
   font-variant: small-caps;
   letter-spacing: 0.06em;
+}
+
+/* ---------- Tablas ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  /* Key trick: allow the table to scroll horizontally on its own
+     without stretching the page */
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  /* Slight fade on the right edge to hint at scrollability */
+  background:
+    linear-gradient(to right, var(--papel) 30%, rgba(243,237,225,0)) left / 40px 100% no-repeat,
+    linear-gradient(to left,  var(--papel) 30%, rgba(243,237,225,0)) right / 40px 100% no-repeat;
+}
+
+th {
+  /*background: var(--rojo-liturgico);*/
+  color: var(--rojo-liturgico);
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  padding: 0.5em 0.7em;
+  text-align: left;
+  /* Prevent headers from wrapping in narrow columns */
+  white-space: nowrap;
+}
+
+td {
+  border-bottom: 1px solid var(--papel-sombra);
+  padding: 0.5em 0.7em;
+  /* Allow wrapping inside cells, but keep words intact */
+  overflow-wrap: break-word;
+}
+
+/* On small screens, tighten padding and font slightly */
+@media (max-width: 600px) {
+  table {
+    font-size: 0.85em;
+  }
+  th, td {
+    padding: 0.4em 0.55em;
+  }
+}
+
+@media (max-width: 312px) {
+  /*table {*/
+  /*  font-size: 0.73em;*/
+  /*}*/
+  th, td, table {
+    padding: 0;
+    font-size: .81em;
+  }
 }
