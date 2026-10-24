@@ -158,7 +158,7 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 ... Como les decia. El gran capital ha destruido al pequeño propietario y al artesano, convirtiendo al hombre en un número, sin raíces ni patrimonio. En un animalito caprichoso que solo quiere ser feliz como los bueyes cuando comen higos.
 
-Poner la economía al servicio del bien común no es tarea facil. Debemos reconstruir la sociedad desde sus cimientos: la persona, la familia, el municipio y los cuerpos intermedios.
+Poner la economía al servicio del bien común no es tarea facil. Implica reconstruir la sociedad desde sus cimientos: la persona, la familia, el municipio y los cuerpos intermedios.
 
 Surcar los mares depende del timonel, pero sin un mapa solvente, no llegará muy lejos. El mejor cartografo que conozco: santo Tomás de Aquino. Estudienlo.
 
