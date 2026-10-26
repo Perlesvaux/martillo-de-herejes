@@ -11,6 +11,10 @@ legend: "LEX NATURALIS EST SCRIPTA IN CORDIBUS OMINUM"
 
 ## Escena I. Prólogo: «La comunidad despojada»
 
+|Miembro|Rol|#|
+|-|-|-|
+|José Antonio|**PROFESOR**|1|
+
 > Actualidad. Año 2026. El Profesor de economia-politica termina su clase sobre las desamortizaciones del siglo XIX y las independencias.
 
 ### PROFESOR:
@@ -41,6 +45,12 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 
 ## Escena II. Los padres: «Wind of Change»
+
+|Miembro|Rol|#|
+|-|-|-|
+|Francisco|**PEPE**|6|
+|Haydee|**KATY**|5|
+|Silvia|**SONIA**|4|
 
 > Analepsis. Finales de los años 70. Estudiantes en su ultimo año de bachillerato charlan sobre el futuro mientras fuman y beben.
 
@@ -78,6 +88,15 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 
 ## Escena III. Los hijos: «No hay futuro»
+
+|Miembro|Rol|#|
+|-|-|-|
+|Maria Eugenia|**GLORIA** | 10|
+|Francisco|**PEDRO**| 11|
+|Haydee|**ANA**| 4 |
+|Silvia|**MARTA**| 6 |
+
+
 
 > Actualidad. Año 2026. Una reunión universitaria por videollamada para hacer un trabajo. 
 
@@ -149,6 +168,10 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 
 ## Escena IV. Epílogo: «¿Qué hacer?»
+
+|Miembro|Rol|#|
+|-|-|-|
+|José Antonio|**SUPLENTE**|1|
 
 > Al día siguiente, de regreso en el aula. El profesor no ha podido llegar. Los alumnos escuchan maravillados al suplente.
 
