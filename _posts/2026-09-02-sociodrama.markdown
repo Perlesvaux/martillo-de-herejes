@@ -11,6 +11,8 @@ legend: "LEX NATURALIS EST SCRIPTA IN CORDIBUS OMINUM"
 
 ## Escena I. Prólogo: «La comunidad despojada»
 
+***Escenario:** Aula. Alumnos en pupitres. Profesor dando clase*
+
 |Miembro|Rol|#|
 |-|-|-|
 |José Antonio|**PROFESOR**|1|
@@ -45,6 +47,8 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 
 ## Escena II. Los padres: «Wind of Change»
+
+***Escenario:** Alumnos parados al rededor de una mesa con tabaco, bebidas alcoholicas y gaseosa. Una radio reproduce «Wind of Change» en el fondo*
 
 |Miembro|Rol|#|
 |-|-|-|
@@ -89,6 +93,8 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 ## Escena III. Los hijos: «No hay futuro»
 
+***Escenario:** Alumnos en videollamada desde sus casas. Viendo el telefono. Cada uno con sus auriculares*
+
 |Miembro|Rol|#|
 |-|-|-|
 |Maria Eugenia|**GLORIA** | 10|
@@ -98,7 +104,7 @@ Eso es todo por hoy. Nos vemos la siguiente semana. ***No olviden la tarea que l
 
 
 
-> Actualidad. Año 2026. Una reunión universitaria por videollamada para hacer un trabajo. 
+> Actualidad. Año 2026. Una videollamada para coordinar un trabajo grupal. 
 
 **GLORIA — UNIVERSITARIA PROGRESISTA:** ¿Alguien ha hecho algo del trabajo?
 
